@@ -6,3 +6,6 @@ This is my portfolio website done with serverless methods
 
 Git and GitHub
 SSH
+HTML
+CSS
+Font Awesome
