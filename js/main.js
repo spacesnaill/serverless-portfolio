@@ -5,6 +5,8 @@ import ExampleWork from './example-work';
 const myWork = [
     {
         'title': "Work Example",
+        'href': "http://example.com",
+        'desc': "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ornare arcu dui vivamus arcu felis bibendum. Mauris sit amet massa vitae tortor condimentum lacinia quis vel. Dictum at tempor commodo ullamcorper a lacus vestibulum sed. Nulla porttitor massa id neque.",
         'image': {
             'desc': "example screenshot of a project involving code",
             'src': "images/example1.png",
@@ -13,6 +15,8 @@ const myWork = [
     },
     {
         'title': "Portfolio Boilerplate",
+        'href': "http://example.com",
+        'desc': "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ornare arcu dui vivamus arcu felis bibendum. Mauris sit amet massa vitae tortor condimentum lacinia quis vel. Dictum at tempor commodo ullamcorper a lacus vestibulum sed. Nulla porttitor massa id neque.",
         'image': {
             'desc': "A Serverless Portfolio",
             'src': "images/example2.png",
@@ -21,6 +25,8 @@ const myWork = [
     },
     {
         'title': "Work Example",
+        'href': "http://example.com",
+        'desc': "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ornare arcu dui vivamus arcu felis bibendum. Mauris sit amet massa vitae tortor condimentum lacinia quis vel. Dictum at tempor commodo ullamcorper a lacus vestibulum sed. Nulla porttitor massa id neque.",
         'image': {
             'desc': "example screenshot of a project involving cats",
             'src': "images/example3.png",
